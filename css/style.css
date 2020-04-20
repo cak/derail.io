@@ -1,0 +1,80 @@
+h2 {
+  display: inline;
+  color: #eaded0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h3 {
+  display: inline;
+  color: #eaded0;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 9px;
+  color: #eaded0;
+  text-align: right;
+  margin: 0px;
+}
+
+h1 {
+  text-align: center;
+  color: #eaded0;
+  font-size: 55px;
+  font-weight: bold;
+}
+
+hr {
+  border-width: 3px 0 0 0;
+  border-style: solid;
+  border-color: #6699cc;
+  margin-bottom: 0px;
+  margin-top: 30px;
+}
+
+ul {
+  font-size: 0px;
+}
+
+li {
+  font-size: 12px;
+  margin-left: 5px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Fira Mono", monospace;
+  background-color: #0b121c;
+  color: #ccccff;
+  text-align: left;
+  width: 90%;
+  margin: auto;
+  display: block;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-wrap: normal;
+}
+
+span.bang {
+  color: #9966cc;
+}
+
+span.quest {
+  color: #33cc66;
+}
+
+span {
+  display: inline;
+}
+
+a {
+  color: #6699cc;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+a.inner {
+  font-size: 14px;
+}
