@@ -1,3 +1,3 @@
 # derail.io
 
-Detail.io Webpage.
+derail.io Webpage.
