@@ -78,3 +78,9 @@ a {
 a.inner {
   font-size: 14px;
 }
+
+div#projects {
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-line;
+}
