@@ -5,6 +5,11 @@ h2 {
   font-weight: bold;
 }
 
+img.badge {
+  display: inline;
+  margin-left: 5px;
+}
+
 h3 {
   display: inline;
   color: #eaded0;
@@ -61,6 +66,11 @@ span.bang {
   color: #9966cc;
 }
 
+span.project {
+  margin-bottom: 5px;
+  display: flex;
+}
+
 span.quest {
   color: #33cc66;
 }
@@ -75,6 +85,10 @@ a {
   font-size: 16px;
 }
 
+a.project {
+  display: inline-block;
+}
+
 a.inner {
   font-size: 14px;
 }
@@ -83,4 +97,13 @@ div#projects {
   word-wrap: break-word;
   word-break: break-all;
   white-space: pre-line;
+}
+
+div.project {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+a.project {
+  font-size: 18px;
 }
