@@ -104,7 +104,7 @@ div#contributions,
 div#presentations,
 div#other {
   word-wrap: break-word;
-  word-break: break-all;
+  word-break: normal;
   white-space: pre-line;
   margin: 0px;
 }
