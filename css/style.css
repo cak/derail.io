@@ -1,8 +1,8 @@
 h2 {
-  display: inline;
   color: #eaded0;
   font-size: 24px;
   font-weight: bold;
+  margin: 0;
 }
 
 img.badge {
@@ -24,11 +24,17 @@ p {
   margin: 0px;
 }
 
+hr.spacer {
+  border: 0px;
+  margin: 0;
+}
+
 h1 {
   text-align: center;
   color: #eaded0;
   font-size: 55px;
   font-weight: bold;
+  margin: 0;
 }
 
 hr {
@@ -36,7 +42,7 @@ hr {
   border-style: solid;
   border-color: #6699cc;
   margin-bottom: 0px;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 ul {
@@ -93,10 +99,14 @@ a.inner {
   font-size: 14px;
 }
 
-div#projects {
+div#projects,
+div#contributions,
+div#presentations,
+div#other {
   word-wrap: break-word;
   word-break: break-all;
   white-space: pre-line;
+  margin: 0px;
 }
 
 div.project {
