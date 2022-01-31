@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+
+html {
+  background-color: #0b121c !important;
+}
+
+body {
+  font-family: "Fira Mono", monospace;
+  color: #ccccff;
+  margin: auto;
+  display: block;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-wrap: normal;
+  min-height: 100%;
+}
