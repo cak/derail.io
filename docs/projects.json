@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "title": "blockade",
+      "url": "https://github.com/TypeError/blockade",
+      "description": "Secure headers and cookies for Node.js web frameworks",
+      "type": "code",
+      "language": "typescript"
+    },
+    {
+      "title": "bookmarks",
+      "url": "https://github.com/TypeError/bookmarks",
+      "description": "A Burp Suite Extension to take back your repeater tabs",
+      "type": "code",
+      "language": "kotlin"
+    },
+    {
+      "title": "crystalball",
+      "url": "https://github.com/TypeError/crystalball",
+      "description": "A magical web screenshot project",
+      "type": "code",
+      "language": "python"
+    },
+    {
+      "title": "domained",
+      "url": "https://github.com/TypeError/domained",
+      "description": "Multi tool subdomain enumeration",
+      "type": "code",
+      "language": "python"
+    },
+    {
+      "title": "reflect",
+      "url": "https://github.com/TypeError/reflect",
+      "description": "OWASP ZAP add-on to help find reflected parameter vulnerabilities",
+      "type": "code",
+      "language": "python"
+    },
+    {
+      "title": "secure.py",
+      "url": "https://github.com/TypeError/secure.py",
+      "description": "Secure headers and cookies for Python web frameworks",
+      "type": "code",
+      "language": "python"
+    },
+    {
+      "title": "HackerTracker (iOS)",
+      "url": "https://github.com/BeezleLabs/HackerTracker-iOS",
+      "description": "An iOS application for security conferences",
+      "type": "contribution",
+      "language": "swift"
+    },
+    {
+      "title": "HUNT Scanner v2",
+      "url": "https://github.com/bugcrowd/HUNT/tree/master/Remix",
+      "description": "A complete rewrite of the HUNT scanner",
+      "type": "contribution",
+      "language": "kotlin"
+    },
+    {
+      "title": "HUNTing with OptionalValue and hakluke",
+      "url": "https://www.youtube.com/watch?v=b2JJnfSbL84",
+      "description": "Video stream to discuss and demonstrate the new version of the HUNT Burp Suite extension",
+      "type": "presentation"
+    },
+    {
+      "title": "How to Fail at Bug Bounty Hunting",
+      "url": "https://forum.bugcrowd.com/t/levelup-2017-discussion-caleb-kinney-how-to-fail-at-bug-bounties/3049",
+      "description": "Talk at Bugcrowd's LevelUp Conference 2017 about getting started participating in bug bounties",
+      "type": "presentation"
+    },
+    {
+      "title": "Application Security Testing with OWASP ZAP",
+      "url": "https://www.youtube.com/watch?v=ZkjeQVy84KA",
+      "description": "A presentation at Frederick Open Source Software (FOSS) meetup on OWASP Zed Attack Proxy (ZAP)",
+      "type": "presentation"
+    },
+    {
+      "title": "Bugcrowd Researcher Spotlight",
+      "url": "https://www.bugcrowd.com/blog/researcher-spotlight-caleb-kinney/",
+      "description": "Featured in Bugcrowd's Researcher Spotlight in June 2020",
+      "type": "other"
+    },
+    {
+      "title": "OWASP Mobile Security Testing Guide",
+      "url": "https://owasp.org/www-project-mobile-security-testing-guide/",
+      "description": "Top Contributor to the OWASP MSTG",
+      "type": "other"
+    }
+  ]
+}
