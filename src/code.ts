@@ -13,12 +13,12 @@ const code = [
     name: "Caleb",
     passion: "Application Security",
     roles: ["Christian", "father", "runner"]
-)`,
+    )`,
   `val derail = Hacker(
     name = "Caleb",
     passion = "Application Security",
     roles = listOf("Christian", "father", "runner")
-)`,
+    )`,
 ];
 
 export default function getCode() {
